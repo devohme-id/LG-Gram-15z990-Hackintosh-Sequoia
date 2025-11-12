@@ -1,6 +1,8 @@
 # LG-Gram-15z990-Hackintosh-Sequoia
 An (almost) perfect Hackintosh build for the LG Gram 15z990 using OpenCore
 
+<img width="1920" height="1080" alt="CleanShot 2025-11-12 at 17 12 52" src="https://github.com/user-attachments/assets/23e81356-ec46-443e-b335-3c59b86f1b49" />
+
 ## Configuration
 |      | Detail   |
 | ---- | -----------------------------------------|
@@ -14,8 +16,6 @@ An (almost) perfect Hackintosh build for the LG Gram 15z990 using OpenCore
 | Network Card | Intel AC-9560|
 | Bluetooth | Intel AC-9560|
 |Thunberbolt Chipset | JHL6340 (Alpine Ridge)|
-
-![Desktop](Desktop.png)
 
 ## Instructions
 Do following My reference efi same as: https://github.com/dimdom69/LG-Gram-17z990-Hackintosh
